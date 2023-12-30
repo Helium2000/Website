@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+    <style>
+      body {
+        background-image: url('https://i.imgur.com/cJlftkv.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-clip: text;
+        background-position: center;
+      }
+    </style>
+  </head>
+  <body>
+
+<h1>Hello Guys, this is my website, very kool.</h1>
+<p>I am Very Kool man pliz friend me,Pretty pliz, Won't You?</p>
+
+  </body>
+</html>
